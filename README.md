@@ -1,1 +1,0 @@
-# symfony-vuejs-shop-course
